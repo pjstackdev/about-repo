@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paul
+# Hi there 👋 I'm Pavel a.k.a Paul
 
 - 🇳🇴/🇱🇹 I am mostly found either in Eastern🏖️ or Northern Europe❄️.
 - 📈 I work with data in finance.

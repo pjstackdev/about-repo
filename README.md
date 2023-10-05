@@ -18,6 +18,6 @@
 
 [aitoolslibrary.com/](https://github.com/pjstackdev/aitoolslibrary/) is an online repository and resource hub dedicated to curating and providing access to a comprehensive collection of artificial intelligence (AI) tools and libraries. This platform serves as a valuable resource for developers, data scientists, and AI enthusiasts, offering a curated list of AI-related software, libraries, frameworks, and tools to assist users in their AI projects, research, and development efforts. Explore a wide range of AI solutions, find the right tools for your needs, and stay updated with the latest advancements in AI technology—all conveniently gathered in one place at AiToolsLibrary.com.
 
-## 💬 Get in touch with me:
+## 👋🏼 Get in touch with me:
 
 [![me@paul64bit](https://img.shields.io/badge/me@paul64bit%20-%23E62B1E.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:pjstackdev@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjstackdev/) [![twitter](https://img.shields.io/badge/paul64bit%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/paul64bit) 

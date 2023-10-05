@@ -3,7 +3,7 @@
 - 🇳🇴/🇱🇹 I am mostly found either in Eastern🏖️ or Northern Europe❄️.
 - 📈 I work with data in finance.
 - 💻 Most of the time I'm writing in Python, SQL, SAS, and R. Sometimes HTML, CSS and JavaScript. Sometimes C#.
-- 🧰 I've always been a fan of pet projects 🚀; they've been a constant source of professional growth in my life. 🌱
+- 🧰 I've always been a fan of pet projects 🚀; one of sources of professional growth in my life. 🌱 
 - 🪛 Sometime I write articles on my blog [substack] (https://paul64bit.substack.com/).
 - ✉️ You can catch me at email at [pjstackdev@gmail.com](mailto:pjstackdev@gmail.com).
 

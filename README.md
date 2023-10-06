@@ -4,7 +4,7 @@
 - 📈 I work with data in finance.
 - 💻 Most of the time I'm writing in Python, SQL, SAS, and R. Sometimes HTML, CSS and JavaScript. Sometimes C#.
 - 🧰 I've always been a fan of pet projects 🚀; one of sources of professional growth in my life. 🌱 
-- 🪛 Sometime I write articles on my blog [substack] (https://paul64bit.substack.com/).
+- 🪛 Sometime I write articles on my blog [substack] (https://pjstackdev.substack.com/).
 - ✉️ You can catch me at email at [pjstackdev@gmail.com](mailto:pjstackdev@gmail.com).
 
 #### My CV: [Linkedin](https://www.linkedin.com/in/pjstackdev/)
@@ -20,4 +20,4 @@
 
 ## 👋🏼 Get in touch with me:
 
-[![me@paul64bit](https://img.shields.io/badge/me@paul64bit%20-%23E62B1E.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:pjstackdev@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjstackdev/) [![twitter](https://img.shields.io/badge/paul64bit%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/paul64bit) 
+[![me@pjstackdev](https://img.shields.io/badge/me@pjstackdev%20-%23E62B1E.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:pjstackdev@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjstackdev/) [![twitter](https://img.shields.io/badge/pjstackdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pjstackdev) 

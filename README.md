@@ -20,4 +20,4 @@ _(a.k.a Pavel)_
 
 ## 👋🏼 Get in touch with me:
 
-[![me@pjstackdev](https://img.shields.io/badge/me@pjstackdev%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjstackdev@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjstackdev/) [![twitter](https://img.shields.io/badge/pjstackdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pjstackdev) 
+[![me@pjstackdev](https://img.shields.io/badge/me@pjstackdev%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjstackdev@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjstackdev/) [![twitter](https://img.shields.io/badge/pjstackdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pjstackdev)  [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://pjstackdev.substack.com/)
